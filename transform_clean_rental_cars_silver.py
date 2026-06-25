@@ -17,7 +17,7 @@ df = pd.read_csv(io.StringIO(file_content))
 # # Transform
 df['website'] = "RegularPython"
 
-
+print("Hi")
 
 # Load
 # Destination bucket and file name
